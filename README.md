@@ -1,1 +1,0 @@
-# gitpycharm_HW7
